@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Horror2D.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BBAC93E5-6032-46D1-B087-1F79D1E3ED9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Horror2D.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Horror2DEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7623492F-A3E4-4ABA-B1F3-FF66D89831D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Horror2D">
+      <UniqueIdentifier>{4751E7DE-F5EC-4432-9537-19BE40522435}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Horror2D\Horror2D.Build.cs">
+      <Filter>Source\Horror2D</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Horror2D\Horror2D.cpp">
+      <Filter>Source\Horror2D</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Horror2D\Horror2D.h">
+      <Filter>Source\Horror2D</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Horror2D\Horror2DCharacter.cpp">
+      <Filter>Source\Horror2D</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Horror2D\Horror2DCharacter.h">
+      <Filter>Source\Horror2D</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Horror2D\Horror2DGameMode.cpp">
+      <Filter>Source\Horror2D</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Horror2D\Horror2DGameMode.h">
+      <Filter>Source\Horror2D</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
