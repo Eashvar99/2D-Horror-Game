@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D
-/I C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Source
-/I C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Source\Horror2D
+/I "C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D"
+/I "C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source"
+/I "C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source\Horror2D"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -434,17 +434,18 @@
 /I ..\Plugins\2D\Paper2D\Source\Paper2D\Classes
 /I ..\Plugins\2D\Paper2D\Source\Paper2D\Public
 /I ..\Plugins\2D\Paper2D\Source\Paper2D
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\Horror2DEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\Horror2DEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\Horror2DEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D\Horror2D.init.gen.cpp"
-/FI"C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Development\Horror2D\Definitions.Horror2D.h"
-/Fo"C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Development\Horror2D\Horror2D.init.gen.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\Horror2DEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\Horror2DEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\Horror2DEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D\Horror2D.init.gen.cpp"
+/FI"C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Development\Horror2D\Definitions.Horror2D.h"
+/Fo"C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Development\Horror2D\Horror2D.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

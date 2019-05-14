@@ -1,15 +1,15 @@
-C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Development\Horror2D\Definitions.Horror2D.h
-c:\users\eashv\documents\gitkraken\2d-horror-game\horror2d\source\horror2d\Horror2DGameMode.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D\Horror2DGameMode.generated.h
-c:\users\eashv\documents\gitkraken\2d-horror-game\horror2d\source\horror2d\Horror2DCharacter.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
-C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D\Horror2DCharacter.generated.h
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Development\Horror2D\Definitions.Horror2D.h
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source\Horror2D\Horror2DGameMode.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D\Horror2DGameMode.generated.h
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source\Horror2D\Horror2DCharacter.h
+D:\UE_4.22\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\UE_4.22\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Intermediate\Build\Win64\UE4Editor\Inc\Horror2D\Horror2DCharacter.generated.h

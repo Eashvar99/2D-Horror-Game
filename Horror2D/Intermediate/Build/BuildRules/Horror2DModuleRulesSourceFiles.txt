@@ -1,3 +1,3 @@
-C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Source\Horror2D\Horror2D.Build.cs
-C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Source\Horror2D.Target.cs
-C:\Users\eashv\Documents\GitKraken\2D-Horror-Game\Horror2D\Source\Horror2DEditor.Target.cs
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source\Horror2D\Horror2D.Build.cs
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source\Horror2D.Target.cs
+C:\Users\AdamBilyea\Documents\Unity Stuff\2D-Horror-Game\Horror2D\Source\Horror2DEditor.Target.cs
